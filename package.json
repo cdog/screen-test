@@ -1,0 +1,15 @@
+{
+  "name": "screen-test",
+  "version": "1.0.0",
+  "description": "[CSS resolution](http://www.w3.org/TR/css3-values/#resolution) detection in JavaScript",
+  "main": "index.js",
+  "dependencies": {
+    "res": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

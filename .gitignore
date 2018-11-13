@@ -1,0 +1,19 @@
+# OS generated files
+._*
+.DS_Store
+Thumbs.db
+
+# Editor generated files
+*.sublime-project
+*.sublime-workspace
+
+# Files to ignore
+*.log
+*.pyc
+*.vi
+*~
+error_log
+
+# Folders to ignore
+.vagrant
+node_modules

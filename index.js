@@ -34,4 +34,6 @@
 
   log('dppx to dpi ' + isClose(96 * res.dppx(), res.dpi()));
   log('dpcm to dpi ' + isClose(2.54 * res.dpcm(), res.dpi()));
+  log('is high density ' + res.isHighDensity());
+  log('is retina ' + res.isRetina());
 }(this, 'res');
